@@ -6,4 +6,4 @@ This project include the following parts:
 - proposal.pdf: the project proposal
 - report.pdf: the technical report
 
-
+For EDA on the dataset, please checkout aws_sagemaker/Data Processing.ipynb
