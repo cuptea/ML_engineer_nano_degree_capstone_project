@@ -1,0 +1,9 @@
+# Capstone project
+
+This project include the following parts:
+- local: the code implementation of the model and experiment which can run in local machine
+- aws_sagemaker: the code implementation of the model and script for trainng and delopyment on the AWS sagemaker platform
+- proposal.pdf: the project proposal
+- report.pdf: the technical report
+
+
